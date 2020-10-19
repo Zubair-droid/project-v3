@@ -35,20 +35,12 @@ body{
 /* bg-img */
 
 
-
-
-
-
-
-
 /* heading-text */
 .heading-text{
-
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   font-size: 3.5rem;
-
-padding-top: 17%;
+  padding-top: 17%;
 padding-bottom: 17%;
   color:white;
 }
@@ -56,10 +48,15 @@ padding-bottom: 17%;
 .intro p{
     text-align: center;
   font-family: 'Sansita Swashed', cursive;
-    color:whitesmoke;
+  padding:5% 10% 0 10%;
+color:whitesmoke;
     font-size: 3rem;
-    padding: 20px 18%;
+
     margin-bottom: 20px;
+  }
+  .inv
+  {
+    color:burlywood;
   }
 
 
