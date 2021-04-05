@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+.kycPage{
+    font-family: "Montserrat", sans-serif;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+   }
+
+.bg-img{
+    
+   justify-content: center;
+   align-content:center;
+   width:90%;
+   height: 100vh;
+}
+
+.container{
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+  
+}
+
+.kyc-btn{
+    align-self:center;
+    background-color: rgb(97, 68, 228);
+    border-radius:6px;
+    font-size:larger;
+    width: 300px;
+    height: 60px;
+    margin: 100px;
+    padding: auto;
+    box-shadow: rgb(97, 68, 228);
+    text-align: center;
+    color:whitesmoke;
+}
+
+.kyc-text{
+    margin-top: 20px;
+    padding: 30px;
+    font-weight: 600;
+    
+}
+.line2{
+    margin-top: 50px;
+    margin-bottom: -50px;
+    font-weight: 600;
+}

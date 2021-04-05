@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+
+.Signin{
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login{
+    text-align: center;
+    
+}
+
+.login-form{
+    font-family: "Montserrat", sans-serif;
+    margin-top: 20px;
+    width: 400px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    border: 1px solid rgb(35, 11, 143);
+    padding: 20px;
+}
+
+.brand-logo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    object-fit: contain;
+    width: 120px;
+    margin-left: 30px;
+    margin-right: auto;
+}
+.sign-in-div{
+    margin-top: 40px;
+}
+
+.input{
+    width: 100%;
+    border-radius: 5px;
+    text-align: center;
+} 
+.inputfield{
+    margin: 30px 0;
+}
+
+.input-p{
+    margin-top: 10px;
+    font-size: medium;
+    text-align: start;
+    
+}
+.span{
+    margin-bottom: -10px;
+    text-decoration: none;
+    color: black;
+}
+.btn-text{
+    text-align: center;
+    text-align: center;
+    width: 100%;
+    font-weight: 600;
+    font-size: large;
+    margin-top: 5px;
+}
+.input-btn{
+    width: 100%;
+    display: flex;
+    color: white;
+    align-items: center;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(97, 68, 228);
+    margin: 10px 0;
+    font-weight: 600;
+    font-size: larger;
+}
+
+.input-signup-btn{
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 100%;
+    font-weight: 600;
+}
+

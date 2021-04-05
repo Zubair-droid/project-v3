@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+.Signup{
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+} 
+
+.signup-column{
+    margin-top: 50px;
+    font-family: "Montserrat", sans-serif;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    height:max-content;
+    top: 100px;
+    width: 100%;
+ 
+}
+
+.Case-header{
+    text-align: center;
+    margin-top: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    position: relative;
+}
+
+.signup-form{
+    align-content: center;
+    justify-content:center;
+    border: 1px  solid rgb(35, 11, 143);
+    padding: 20px;
+    width: 400px;
+    border-radius: 7px;
+    margin: 50px 40px;
+}
+
+.input-data{
+    margin-top: 10px;
+    padding:10px 5px;
+
+}
+
+form > h2{
+    font-weight: 600;
+    text-align: center;
+}
+
+.inputField{
+    width: 100%;
+    text-align: center;
+}
+
+.sign-up-btn{
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color:  rgb(97, 68, 228);
+    border-radius: 5px;
+    margin-top: 30px;
+    font-size: larger;
+    padding: 5px;
+}
+
+.forms{
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin: 30px 10px;
+    width: 100%;
+   display: flex;
+}

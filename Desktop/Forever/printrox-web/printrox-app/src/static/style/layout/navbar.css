@@ -1,0 +1,16 @@
+.navbar-nav {
+  margin-left: auto;
+}
+.navbar-sec .container-fluid {
+  padding-left: 0;
+}
+.brand-logo {
+  width: 150px;
+}
+.navbar-nav {
+  font-size: 18px;
+}
+
+.navbar {
+  margin-top: 10px;
+}
